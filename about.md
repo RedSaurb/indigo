@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Hello World!
-I am Saurabh Kumar from Darbhanga,🇮🇳.</p>
+I'm Saurabh from Darbhanga,🇮🇳.</p>
 
 
 <p></p>
@@ -22,8 +22,6 @@ I am Saurabh Kumar from Darbhanga,🇮🇳.</p>
 	<li>PHP</li>
 	<li>Java - SE</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
