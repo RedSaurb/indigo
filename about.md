@@ -23,11 +23,12 @@ I'm Saurabh from Darbhanga,🇮🇳.</p>
 	<li>Java - SE</li>
 	<li>MySQL - MongoDB</li>
 </ul>
-
+<! --
 <h2>Projects</h2>
-
+ 
 <ul>
 	<li><a href="https://github.com/"></a></li>
 	<li><a href="https://github.com/"></a></li>
 	<li><a href="https://github.com/"></a></li>
 </ul>
+-->
